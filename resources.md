@@ -44,7 +44,7 @@ A number of blogs have been created and available to read on the [AnalystX works
             <img class="nhsuk-card__img" src="assets/img/links/youtube-min.png" alt="AnalystX Youtube">
             <div class="nhsuk-card__content">
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                    <a class="nhsuk-card__link" href="https://www.youtube.com/channel/UCg07r7_eTYQchw9n1RqZlNw"> YouTube channel</a>
+                    <a class="nhsuk-card__link" href="https://www.youtube.com/channel/UCg07r7_eTYQchw9n1RqZlNw">YouTube channel</a>
                 </h2>
                 <p>Subscribe to the AnalystX TV YouTube channel.</p>
             </div>
