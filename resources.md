@@ -54,12 +54,12 @@ A number of blogs have been created and available to read on the [AnalystX works
 <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
-            <img class="nhsuk-card__img" src="assets/img/links/youtube-min.png" alt="AnalystX Youtube">
+            <img class="nhsuk-card__img" src="assets/img/links/futureNHS.png" alt="AnalystX">
             <div class="nhsuk-card__content">
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                    <a class="nhsuk-card__link" href="https://www.youtube.com/channel/UCg07r7_eTYQchw9n1RqZlNw">YouTube channel</a>
+                    <a class="nhsuk-card__link" href="[https://future.nhs.uk/DataAnalytics](https://future.nhs.uk/DataAnalytics)">AnalystX</a>
                 </h2>
-                <p>Subscribe to the AnalystX TV YouTube channel.</p>
+                <p>Subscribe to the AnalystX community site.</p>
             </div>
         </div>
     </li>
