@@ -51,7 +51,7 @@ A number of blogs have been created and available to read on the [AnalystX works
             </div>
         </div>
     </li>
-    
+    </li>
     </ul>
 <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
