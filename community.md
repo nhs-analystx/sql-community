@@ -13,8 +13,6 @@ title: Community of Practice
   <li><b>Andrew Lavelle</b> - Wirral University Teaching Hospital NHS Foundation Trust</li>
   <li><b>Suki Panesar</b> - NHS England</li>
   <li><b>Julia Wilkins</b> - The Health Economics Unit</li>
-  <li><b></b> </li>
-  <li><b></b> </li>
 </ul>
 
 <div class="nhsuk-do-dont-list">
